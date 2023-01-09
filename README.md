@@ -1,4 +1,4 @@
 ### 👋 hi i'm nikki
-- i'm **really** cool
+- i'm **really** cool 😎
 - and smart 🧠
 - and funny 😄
