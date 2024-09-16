@@ -30,7 +30,7 @@
   					}
 				}
 				.container {
-					font: "Comic Sans", cursive;
+					font-family: "Comic Sans", cursive;
 					display: flex;
 					flex-direction: column;
 					align-items: center;
