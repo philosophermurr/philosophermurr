@@ -2,10 +2,6 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@font-face {
-				  font-family: libre-franklin;
-				  src: url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
-				}
 				@keyframes zoom-in-out {
 					0% {
 						transform: scale(1, 1);
@@ -34,7 +30,7 @@
   					}
 				}
 				.container {
-					font-family: libre-franklin, sans-serif;
+					font-family: cursive;
 					display: flex;
 					flex-direction: column;
 					align-items: center;
